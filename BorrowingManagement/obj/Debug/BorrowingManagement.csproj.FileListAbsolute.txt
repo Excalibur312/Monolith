@@ -1,0 +1,11 @@
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\bin\Debug\BorrowingManagement.dll
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\bin\Debug\BorrowingManagement.pdb
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\bin\Debug\BookManagement.dll
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\bin\Debug\UserManagement.dll
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\bin\Debug\BookManagement.pdb
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\bin\Debug\UserManagement.pdb
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\obj\Debug\BorrowingManagement.csproj.AssemblyReference.cache
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\obj\Debug\BorrowingManagement.csproj.CoreCompileInputs.cache
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\obj\Debug\Borrowin.F9B29C1D.Up2Date
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\obj\Debug\BorrowingManagement.dll
+C:\Users\Emre KAYA\Desktop\BorrowingManagement\obj\Debug\BorrowingManagement.pdb

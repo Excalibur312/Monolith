@@ -1,0 +1,14 @@
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\bin\Debug\BookManagement.dll
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\bin\Debug\BorrowingManagement.dll
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\bin\Debug\UserManagement.dll
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\bin\Debug\BookManagement.pdb
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\bin\Debug\BorrowingManagement.pdb
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\bin\Debug\UserManagement.pdb
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\obj\Debug\LibraryM.4D120AE7.Up2Date
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Emre KAYA\Desktop\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

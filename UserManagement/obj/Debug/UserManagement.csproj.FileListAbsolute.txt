@@ -1,0 +1,6 @@
+C:\Users\Emre KAYA\Desktop\UserManagement\bin\Debug\UserManagement.dll
+C:\Users\Emre KAYA\Desktop\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\Emre KAYA\Desktop\UserManagement\obj\Debug\UserManagement.csproj.AssemblyReference.cache
+C:\Users\Emre KAYA\Desktop\UserManagement\obj\Debug\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\Emre KAYA\Desktop\UserManagement\obj\Debug\UserManagement.dll
+C:\Users\Emre KAYA\Desktop\UserManagement\obj\Debug\UserManagement.pdb
